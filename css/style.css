@@ -1,0 +1,14 @@
+li{
+    text-decoration: none;
+}
+
+header{
+    height: 6em;
+    width: 100%;
+    display: block;
+}
+
+#logo{
+    height: 5em;
+    float: right;
+}
